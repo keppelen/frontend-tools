@@ -15,6 +15,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 	* [lineman](https://github.com/testdouble/lineman)
 	* [yeoman](http://yeoman.io/)
 	* [gruntstart](http://tsvensen.github.com/GruntStart/)
+* [gulp](http://gulpjs.com/)
 * [mimosa](http://mimosajs.com/) 
 * [codeKit](http://incident57.com/codekit/)
 * [liveReload](http://livereload.com/)
